@@ -1,0 +1,12 @@
+package prueba100;
+
+public class prueba100 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		System.out.println("Hola");	}
+
+}
